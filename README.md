@@ -1,10 +1,10 @@
 ## Hola! me llamo Yhilmar Sánchez
 
-**Dentro de GitHub soy yhil-mar
+**Dentro de GitHub soy yhil-mar**
 
 ### ¿Quién Soy?
 
-Soy un **desarrollador web ***Full Stack***
+Soy un **desarrollador web** ***Full Stack***
 Mi interés por programar comenzó cuando terminé mis estudios secundarios. Mi primer lenguaje fue **MATLAB** y desde entonces ese gusto programar solamente creció
 <!--
 **yhil-mar/yhil-mar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
