@@ -29,7 +29,7 @@ El bootcamp de Henry me ha permitido adquirir el conocimiento y experiencia fund
 * Sequelize
 * GIT
 
-Entre otras herramientas, tambien también manejo lenguaje de programación **Python**, **MATLAB**, y el lenguaje propio de programación **AutoLISP** perteneciente al software de diseño AutoCAD.
+Entre otras herramientas, tambien también manejo lenguaje de programación **Python**, **MATLAB**, y el lenguaje de programación **AutoLISP** perteneciente al software de diseño AutoCAD.
 
 ## Contáctame!
 
