@@ -3,7 +3,7 @@
 ## ¿Quién Soy?
 
 Soy un **desarrollador web** ***Full Stack***
-Mi interés por programar comenzó cuando terminé mis estudios secundarios. Mi primer lenguaje fue **MATLAB** y desde entonces ese gusto programar solamente creció ⬆⬆⬆
+Mi interés por programar comenzó cuando terminé mis estudios secundarios. Mi primer lenguaje fue **MATLAB** y desde entonces ese gusto programar solamente creció ⬆⬆⬆  
 Ese acercamiento al código fue clave para establecer mi meta, trabajar como programador.
 
 ## ¿Que hago?
@@ -12,7 +12,7 @@ Actualmente me desempeño en la creación de nuevos proyectos personales intenta
 
 ## ¿Adónde me dirijo?
 
-Mi principal objetivo es desenvolverme como un desarrollador full stack, creciendo junto con la tecnología a lo largo de los años.
+Mi principal objetivo es desenvolverme como un desarrollador full stack, creciendo junto con la tecnología a lo largo de los años.  
 Ese gusto por programar me motiva día a día para mejorar como desarrollador y como profesional en esta área.
 
 ## ¿Que tecnologías uso?
@@ -35,7 +35,7 @@ Entre otras herramientas, tambien también manejo lenguaje de programación **Py
 
 No dudes en hacerlo, y así juntos podremos realizar proyectos increíbles capaces de impulsar el mundo del desarrollo web!
 
-[Linkedin](https://www.linkedin.com/in/yhilmar-sanchez/)
+[Linkedin](https://www.linkedin.com/in/yhilmar-sanchez/)  
 Mail: [miniyasc@gmail.com]
 
 <!--
