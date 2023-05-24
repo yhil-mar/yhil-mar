@@ -36,7 +36,7 @@ Entre otras herramientas, tambien también manejo lenguaje de programación **Py
 No dudes en hacerlo, y así juntos podremos realizar proyectos increíbles capaces de impulsar el mundo del desarrollo web!
 
 [Linkedin](https://www.linkedin.com/in/yhilmar-sanchez/)  
-Mail: [miniyasc@gmail.com]
+Mail: miniyasc@gmail.com
 
 <!--
 **yhil-mar/yhil-mar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
